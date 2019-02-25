@@ -1,3 +1,3 @@
 # Android-Radiocolor
 
-![alt text](https://github.com/Devanoezra/Android-Multiwindow/blob/master/radiocolor.jpg)
+![alt text](https://github.com/Devanoezra/Android-Radiocolor/blob/master/radiocolor.jpg)
